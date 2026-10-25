@@ -7,7 +7,7 @@ Public Client ID Metadata Document for HUAYIK Studio ElevenLabs OAuth (no secret
 Settings → บัญชีและโปรไฟล์ → ElevenLabs → ตั้งค่า OAuth เพิ่มเติม → **URL ข้อมูลแอป OAuth บน HTTPS สาธารณะ**
 
 ```
-https://cdn.jsdelivr.net/gh/HuaYik/huayik-studio-elevenlabs-oauth@main/elevenlabs-client-metadata.json
+https://huayik.github.io/huayik-studio-elevenlabs-oauth/elevenlabs-client-metadata.json
 ```
 
 Then click **บันทึก URL แอป**, then **ล็อกอิน / เชื่อม ElevenLabs ใหม่**.

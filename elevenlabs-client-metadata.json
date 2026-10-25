@@ -1,5 +1,5 @@
 {
-  "client_id": "https://cdn.jsdelivr.net/gh/HuaYik/huayik-studio-elevenlabs-oauth@main/elevenlabs-client-metadata.json",
+  "client_id": "https://huayik.github.io/huayik-studio-elevenlabs-oauth/elevenlabs-client-metadata.json",
   "client_name": "HUAYIK Studio",
   "redirect_uris": [
     "http://127.0.0.1:8876/oauth/elevenlabs/callback/"
