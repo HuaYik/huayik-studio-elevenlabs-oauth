@@ -1,0 +1,16 @@
+{
+  "client_id": "https://huayik.github.io/huayik-studio-elevenlabs-oauth/elevenlabs-client-metadata.json",
+  "client_name": "HUAYIK Studio",
+  "redirect_uris": [
+    "http://127.0.0.1:8876/oauth/elevenlabs/callback/"
+  ],
+  "grant_types": [
+    "authorization_code",
+    "refresh_token"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "token_endpoint_auth_method": "none",
+  "scope": "convai_read text_to_speech flows"
+}
